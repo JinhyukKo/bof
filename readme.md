@@ -8,9 +8,15 @@ run the win func()
 
 ### bof2
 open a shell using adequate payload
+<img width="732" height="331" alt="Screenshot 2025-08-25 at 15 32 02" src="https://github.com/user-attachments/assets/34b0f4bb-6bb5-42f6-8c0d-1791b61d6361" />
 
-![Uploading Screenshot 2025-08-25 at 15.31.23.png…]()
 
 ## Advanced_bof
 open a shell using adequate payload
+
+
+<details>
+  <summary> 📁 hint </summary>
+  Function Epilogue 
+</details>
 
