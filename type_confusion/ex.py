@@ -5,7 +5,7 @@ from pwn import *
 
 
 flag = 0x4052a0
-#town[1] = {0x4052d0}
+
 context.log_level = "debug"
 
 p = process("./town")
