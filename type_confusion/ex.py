@@ -65,22 +65,7 @@ def delete_person(idx):
 
 # 사용 예시
 make_person(b"A", b"B", 19)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
 
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
-make_person(b"A", b"B", 10)
 
 down_age(0)
 down_age(0)

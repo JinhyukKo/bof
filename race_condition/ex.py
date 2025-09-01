@@ -2,15 +2,6 @@ from pwn import *
 
 import threading
 
-# # 타겟 함수
-# # def attack(idx):
-#     # r = remote("127.0.0.1", 1337)
-#     payload = b"A" * 64 + b"B" * 8
-#     r.sendline(payload)
-#     print(f"[+] Thread {idx} sent payload")
-#     r.close()
-
-
 host= "127.0.0.1"
 port = 8888
 
