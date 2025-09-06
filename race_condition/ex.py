@@ -47,13 +47,7 @@ def buyItem(userId):
     line = r.recvline(timeout=5)
     print(line)
     print("buy")
-
-
-
 createAcount("Jin")
-
-
-
 threads = []
 for i in range(13):  # 동시에 10개 프로세스 실행
     t = threading.Thread(target=useCoupon, args=(0, 1))
